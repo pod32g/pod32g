@@ -33,8 +33,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pod32g&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pod32g&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+  <img src="https://komarev.com/ghpvc/?username=pod32g&style=for-the-badge&color=0A66C2&label=Profile+Views" alt="Profile views">
+  <a href="https://github.com/pod32g?tab=followers"><img src="https://img.shields.io/github/followers/pod32g?style=for-the-badge&color=0A66C2&logo=github&label=Followers" alt="Followers"></a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pod32g&theme=tokyonight&hide_border=true" alt="GitHub streak stats">
 </p>
 
 ---
