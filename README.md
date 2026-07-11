@@ -1,11 +1,42 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm David Ivan Perez 👋</h1>
 
-This repository hosts my personal portfolio site built with GitHub Pages. You can find the source in the `docs/` folder.
-To publish it:
+<p align="center">
+  <b>Java Developer · Full Stack Engineer</b><br>
+  Building scalable microservices &amp; reliable systems from Zapopan, Jalisco 🇲🇽
+</p>
 
-1. Go to your repository settings on GitHub.
-2. Scroll down to **GitHub Pages**.
-3. Under **Source**, choose the `docs` folder.
-4. Save the settings and your site will be available at `https://<username>.github.io/<repository>`.
+<p align="center">
+  <a href="https://www.linkedin.com/in/david-ivan-perez"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-Feel free to customize `docs/index.html` with your own content.
+---
+
+### 🚀 About me
+
+- 🔭 Currently a **Full Stack Engineer at ARCOS LLC**
+- ☎️ Spent **4+ years at Oracle** on the Communications Policy team, building **microservices for Oracle's 5G products**
+- 🧩 Previously at **Bosch México**, shipping internal systems with React, Express &amp; Django
+- 🎓 **B.E. in Informatics** from Universidad de Guadalajara
+- 🌱 Always exploring new tech and applying it to real-world problems
+
+### 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pod32g&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pod32g&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
+</p>
+
+---
+
+<sub>💼 My personal portfolio lives in the <a href="./docs"><code>docs/</code></a> folder, published via GitHub Pages.</sub>
